@@ -2,8 +2,8 @@
 
 ## Student Details
 
-* Name: Shrey Agarwal
-* Roll Number: 24BCE10479
+* Name: Kushal Rawat
+* Roll Number: 24BAC10016
 
 ## Chosen Software
 
